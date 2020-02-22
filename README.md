@@ -1,3 +1,15 @@
 # Classifying Goa Monuments using Apple Core ML3 
 
 Preprocess photos using the Vision framework and classify them with a Core ML model.
+
+
+## Project Screenshots on LocalHost
+
+<img alt="image_1" src="img/IMG_1245.PNG" width="700px" width="700px">
+
+<img alt="image_1" src="img/IMG_1246.PNG" width="700px" width="700px">
+
+<img alt="image_1" src="img/IMG_1247.PNG" width="700px" width="700px">
+
+<img alt="image_1" src="img/IMG_1248.PNG" width="700px" width="700px">
+
