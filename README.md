@@ -3,7 +3,7 @@
 Preprocess photos using the Vision framework and classify them with a Core ML model.
 
 
-## Project Screenshots on LocalHost
+## Project Screenshots on iPhone11Pro
 
 
 <p float="left">
