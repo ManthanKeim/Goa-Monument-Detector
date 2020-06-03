@@ -16,6 +16,6 @@ Preprocess photos using the Vision framework and classify them with a Core ML mo
 <img alt="image_1" src="img/IMG_1248.PNG" width="200px">
 </p>
 
-R
+M
 
 
